@@ -1,0 +1,13 @@
+1. layout
+2. activity/fragment
+3. request (yang perlu dikirim)
+4. response (yang ingin didapat.. set modelnya)
+5. connection
+6. url (jika develop sendiri dari awal)
+7. Adapter (jika ada recycle view)
+tujuan recycle view adalah agar data (yang jumlahnya banyak)
+dapat ditampilkan di suatu layout mengikuti struktur layout tersebut.
+karena jika tidak akan berantakan.
+recycle view ini dibuat disuatu layout tersendiri.
+recycleview merupakan improvement dari list view sehingga kebanyakan
+pakai recyleview karena sama dan lebih baik.
